@@ -11,6 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Learning 3.</h1>
+        <h4>By Lev Markelov</h4>
       </main>
     </div>
   );
